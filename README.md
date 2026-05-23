@@ -193,6 +193,6 @@ This project is released under the [MIT License](LICENSE). Free to use, modify, 
 
 <div align="center">
 
-Built with ❤️ for RUET students &nbsp;·&nbsp; Rajshahi University of Engineering & Technology
+Built for RUET students &nbsp;·&nbsp; Rajshahi University of Engineering & Technology
 
 </div>
