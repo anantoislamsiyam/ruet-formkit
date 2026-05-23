@@ -12,7 +12,7 @@ Generate official forms, calculate your CGPA, and manage academic paperwork — 
 [![100% Free](https://img.shields.io/badge/100%25-Free-brightgreen.svg)]()
 [![RUET](https://img.shields.io/badge/Built%20for-RUET-red.svg)]()
 
-[**→ Open FormKit**](https://your-username.github.io/ruet-formkit) &nbsp;·&nbsp; [Course Registration](#-course-registration-form-generator) &nbsp;·&nbsp; [Exam Application](#-exam-application-form-generator) &nbsp;·&nbsp; [CGPA Calculator](#-cgpa-calculator)
+[**→ Open FormKit**](https://anantoislamsiyam.github.io/ruet-formkit/) &nbsp;·&nbsp; [Course Registration](https://anantoislamsiyam.github.io/ruet-formkit/course-registration.html) &nbsp;·&nbsp; [Exam Application](https://anantoislamsiyam.github.io/ruet-formkit/form-fillup.html) &nbsp;·&nbsp; [CGPA Calculator](https://anantoislamsiyam.github.io/ruet-formkit/cgpa-calculator.html)
 
 </div>
 
@@ -122,7 +122,7 @@ Page load
 Clone or download the repository, then open `index.html` in any modern browser.
 
 ```bash
-git clone https://github.com/your-username/ruet-formkit.git
+git clone https://github.com/anantoislamsiyam/ruet-formkit.git
 cd ruet-formkit
 # Open index.html in your browser
 ```
@@ -146,7 +146,7 @@ Then visit `http://localhost:8080`.
 
 ### Option 3 — GitHub Pages
 
-Fork this repository, go to **Settings → Pages**, set source to the `main` branch root, and your FormKit will be live at `https://your-username.github.io/ruet-formkit`.
+Fork this repository, go to **Settings → Pages**, set source to the `main` branch root, and your FormKit will be live at `https://anantoislamsiyam.github.io/ruet-formkit`.
 
 ---
 
