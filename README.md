@@ -144,10 +144,6 @@ npx serve .
 
 Then visit `http://localhost:8080`.
 
-### Option 3 — GitHub Pages
-
-Fork this repository, go to **Settings → Pages**, set source to the `main` branch root, and your FormKit will be live at `https://anantoislamsiyam.github.io/ruet-formkit`.
-
 ---
 
 ## Browser Support
