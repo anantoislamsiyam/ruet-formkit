@@ -5,7 +5,7 @@
 # RUET FormKit
 
 **Academic tools built exclusively for RUET students.**
-Generate official forms, calculate your CGPA, and manage academic paperwork — fast, free, and offline-ready.
+Generate official forms, calculate your CGPA, and manage academic paperwork — fast and free.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![No Login](https://img.shields.io/badge/No%20Login-Required-green.svg)]()
